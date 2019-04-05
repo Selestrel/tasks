@@ -9,13 +9,13 @@ Codewars:
    7. http://www.codewars.com/kata/word-count  done
    8. http://www.codewars.com/kata/remove-first-and-last-character-part-two  done
    9. http://www.codewars.com/kata/implement-a-filter-function  done
-   10. http://www.codewars.com/kata/prefill-an-array
-   11. http://www.codewars.com/kata/cross-product-of-vectors
-   12. http://www.codewars.com/kata/sequence-generator-1
+   10. http://www.codewars.com/kata/prefill-an-array  done
+   11. http://www.codewars.com/kata/cross-product-of-vectors  done
+   12. http://www.codewars.com/kata/sequence-generator-1  done
    13. https://www.codewars.com/kata/base-conversion/
-   14. http://www.codewars.com/kata/closures-and-scopes
-   15. http://www.codewars.com/kata/a-function-within-a-function
-   16. http://www.codewars.com/kata/can-you-keep-a-secret
+   14. http://www.codewars.com/kata/closures-and-scopes  done
+   15. http://www.codewars.com/kata/a-function-within-a-function  done
+   16. http://www.codewars.com/kata/can-you-keep-a-secret  done
    17. http://www.codewars.com/kata/using-closures-to-share-class-state
    18. http://www.codewars.com/kata/a-chain-adding-function
    19. http://www.codewars.com/kata/function-cache
