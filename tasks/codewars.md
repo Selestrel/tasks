@@ -6,9 +6,9 @@ Codewars:
    4. http://www.codewars.com/kata/transportation-on-vacation  done
    5. http://www.codewars.com/kata/get-the-middle-character  done
    6. http://www.codewars.com/kata/partition-on  in progress
-   7. http://www.codewars.com/kata/word-count
-   8. http://www.codewars.com/kata/remove-first-and-last-character-part-two
-   9. http://www.codewars.com/kata/implement-a-filter-function
+   7. http://www.codewars.com/kata/word-count  done
+   8. http://www.codewars.com/kata/remove-first-and-last-character-part-two  done
+   9. http://www.codewars.com/kata/implement-a-filter-function  done
    10. http://www.codewars.com/kata/prefill-an-array
    11. http://www.codewars.com/kata/cross-product-of-vectors
    12. http://www.codewars.com/kata/sequence-generator-1
